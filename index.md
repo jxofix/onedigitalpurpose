@@ -244,16 +244,15 @@
    <li>Technical information on the product: Information on how the item is used (e.g. vehicles), technical description of the item (e.g. vehicle model and colour)</li>
    <li>Localisation data: based on GPS or beacon technology  <a href="#gps"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></li>
 </ul>
-<p style="margin-left: 6vw; font-weight: bold">Sharing of your data</p>
-<p style="margin-left: 6vw">In order to provide you with digital product ŠKODA Digital Connectivity Services, we may disclose your data also to providers of ŠKODA Digital Connectivity Services (such as IT or delivery services providers).</p>
-<details> <summary style="margin-left:6vw; font-weight:bold" id="gps"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
-<p style="margin-left: 9vw; font-weight: bold">Why do we need these data?</p>
+<details> <summary style="margin-left:6vw; font-weight:bold" id="gps"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Why do we need location data?</summary>
 <p style="margin-left: 9vw">We need your <span style="font-weight: bold">location data</span> to ensure full functionality of the following ŠKODA Connectivity Services functionalities:</p>
 <ul style="margin-left: 11vw">
    <li>to track all your trips, with simple switching between business and private travel inclusive all available details and route information;</li>
    <li>to make your trip planning via Mobile Application easier as it allows you to search and display nearby points of interest</li>
 </ul>
 </details>
+<p style="margin-left: 6vw; font-weight: bold">Sharing of your data</p>
+<p style="margin-left: 6vw">In order to provide you with digital product ŠKODA Digital Connectivity Services, we may disclose your data also to providers of ŠKODA Digital Connectivity Services (such as IT or delivery services providers).</p>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">Car configurator on ŠKODA AUTO website</p>
 <p style="margin-left: 3vw">Car configurator is a web-based platform for configuration of vehicles which enables you to build your own car in a few simple steps by selecting features of your perfect car.  <a href="#cc"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
