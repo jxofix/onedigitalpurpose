@@ -215,10 +215,10 @@
 <br>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_phone.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By phone:</span> +420 234 665 111</div>
 </div><br>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.uoou.cz/en">http://www.uoou.cz/en</a></div><br>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.uoou.cz/en">http://www.uoou.cz/en</a></div>
 </details>
 <br>
-<details><summary style="font-size: 18px; font-weight: bold" id="tp_specific">SPECIFICS OF PARTICULAR DIGITAL PRODUCTS</summary>
+<details><summary style="font-size: 18px; font-weight: bold">SPECIFICS OF PARTICULAR DIGITAL PRODUCTS</summary>
 <p style="margin-left: 3vw">Each of our digital products may need an additional set of your personal data to provide a full and quality experience. Also, some of our digital products may require sharing your data with a particular third-party provider of services. You can see all such differences below.</p>
 <p style="margin-left: 3vw">Our digital products include in particular:</p>
 <p style="margin-left: 3vw; font-weight: bold">ŠKODA Digital Connectivity Services</p>
