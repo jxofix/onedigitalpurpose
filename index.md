@@ -191,7 +191,7 @@
 <img src="https://github.com/jxofix/SA_temp/blob/main/contact_main.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />
 <p style="margin-left: 3vw; font-style:italic">How can you exercise your rights?</p>
 <p style="margin-left: 3vw">If you have any questions about our use or protection of your data or if you want to exercise any of your rights, you can contact us:</p>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div> <span style="font-weight: bold">Electronically: </span> at <a href="http://www.ŠKODA-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a> or via ŠKODA ID Portal at <a href="https://ŠKODAid.vwgroup.io">https://ŠKODAid.vwgroup.io</a></div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div> <span style="font-weight: bold">Electronically: </span> at <a href="http://www.skoda-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a> or via ŠKODA ID Portal at <a href="https://skodaid.vwgroup.io">https://ŠKODAid.vwgroup.io</a></div>
 </div>
 <br>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_phone.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div> <span style="font-weight: bold">By phone: </span> 800 600 000</div>
@@ -204,7 +204,7 @@
 <p style="margin-left: 3vw; font-weight: bold">Data Protection Officer</p>
 <p style="margin-left: 3vw">If you have a question about protection of your data, you can also directly contact our Data Protection Officer:
 </p>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.ŠKODA-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.skoda-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></div>
 </div>
 <br>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/dpo_email.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By e-mail:</span> <a href="mailto:dpo@ŠKODA-auto.cz">dpo@ŠKODA-auto.cz</a></div>
