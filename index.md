@@ -114,7 +114,7 @@
 <br>
 <details><summary style="font-size: 18px; font-weight: bold">RETENTION DURATION</summary>
 <img src="https://github.com/jxofix/SA_temp/blob/main/retention_how_long.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />
-<div style="font-style:italic">How long do we retain your data?</div>
+<div style="margin-left: 3vw; font-style:italic">How long do we retain your data?</div><br>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/retention_exclamation.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" />
 <div>Generally, we will retain your data until the agreement on provision of digital products between us is terminated and for the subsequent necessary archiving period. In case of the improvement and enhancement of our digital products, we do not use your data for more than one month.</div>
 </div>
