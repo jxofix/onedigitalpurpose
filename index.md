@@ -62,7 +62,7 @@
 <p style="margin-left: 3vw; font-weight: bold">Data collected from your vehicle</p>
 
 <p style="margin-left: 3vw">Personal data also originate when you drive your vehicle. For example, a functionality that creates a logbook of your travels may generate such data which originate when you drive ŠKODA car. We may also use such data which originated when you were driving your vehicle to provide you with such a digital product.</p>
-<details> <summary style="margin-left:3vw; font-weight: bold" id="cookies"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" />What are cookies?  <img src=https://github.com/jxofix/SA_temp/blob/main/cookies.jpg?raw=true style="width:1em" /></summary>
+<details> <summary style="margin-left:3vw; font-weight: bold" id="cookies"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" />What are cookies?  <img src="https://github.com/jxofix/SA_temp/blob/main/cookies.jpg?raw=true" style="width:1em" /></summary>
 <p style="margin-left: 6vw">Cookies are small blocks of data created by a web server (while you are browsing a website) and placed on your device, used to access a website (such as computer or smartphone). If you use any of the digital products by using a web browser, we may also use the data about you collected via the browser (cookies). The cookie technology helps us, in particular, to enable some functionalities of the website, better understand your behaviour, analyse the effectiveness of advertisements, combat fraud, or fulfil other important roles. For example, we may use cookies to make the content and ads you see more relevant to you. However, we will only use cookies if you give us the consent to use your cookies via the cookie consent tool on our websites. For more information about our cookie policy, you can visit <a href="https://www.skoda-auto.cz/sluzby/cookie-settings-en">Cookie Settings</a>.</p>
 </details>
 </details>
@@ -196,7 +196,6 @@
 </div>
 <br>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_mail.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div><span style="font-weight: bold">By mail:</span> ŠKODA AUTO a.s., tř. Václava Klementa 869, Mladá Boleslav II, 293 01 Mladá Boleslav, Czech Republic</div>
-
 </div>
 <br>
 <p style="margin-left: 3vw">We may charge a reasonable fee when your requests are apparently unfounded or excessive considering connected administrative costs.</p>
