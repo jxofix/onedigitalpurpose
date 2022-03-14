@@ -189,33 +189,33 @@
 <img src="https://github.com/jxofix/SA_temp/blob/main/contact_main.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />
 <p style="margin-left: 3vw; font-style:italic">How can you exercise your rights?</p>
 <p style="margin-left: 3vw">If you have any questions about our use or protection of your data or if you want to exercise any of your rights, you can contact us:</p>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div> <span style="font-weight: bold">Electronically: </span> at <a href="http://www.ŠKODA-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a> or via ŠKODA ID Portal at <a href="https://ŠKODAid.vwgroup.io">https://ŠKODAid.vwgroup.io</a></div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div> <span style="font-weight: bold">Electronically: </span> at <a href="http://www.ŠKODA-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a> or via ŠKODA ID Portal at <a href="https://ŠKODAid.vwgroup.io">https://ŠKODAid.vwgroup.io</a></div>
 </div>
 <br>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_phone.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div> <span style="font-weight: bold">By phone: </span> 800 600 000</div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_phone.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div> <span style="font-weight: bold">By phone: </span> 800 600 000</div>
 </div>
 <br>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_mail.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div><span style="font-weight: bold">By mail:</span> ŠKODA AUTO a.s., tř. Václava Klementa 869, Mladá Boleslav II, 293 01 Mladá Boleslav, Czech Republic</div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_mail.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By mail:</span> ŠKODA AUTO a.s., tř. Václava Klementa 869, Mladá Boleslav II, 293 01 Mladá Boleslav, Czech Republic</div>
 </div>
 <br>
 <p style="margin-left: 3vw">We may charge a reasonable fee when your requests are apparently unfounded or excessive considering connected administrative costs.</p>
 <p style="margin-left: 3vw; font-weight: bold">Data Protection Officer</p>
 <p style="margin-left: 3vw">If you have a question about protection of your data, you can also directly contact our Data Protection Officer:
 </p>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.ŠKODA-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.ŠKODA-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></div>
 </div>
 <br>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/dpo_email.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div><span style="font-weight: bold">By e-mail:</span> <a href="mailto:dpo@ŠKODA-auto.cz">dpo@ŠKODA-auto.cz</a></div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/dpo_email.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By e-mail:</span> <a href="mailto:dpo@ŠKODA-auto.cz">dpo@ŠKODA-auto.cz</a></div>
 </div>
 <br>
 <p style="margin-left: 3vw; font-weight: bold">Lodging a complaint</p>
 <p style="margin-left: 3vw">In case you disagree with our usage or protection of your data, you can lodge a complaint with the Data Protection Officer (DPO) of ŠKODA AUTO or a supervisory authority:</p>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_mail.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div><span style="font-weight: bold">By mail:</span> Office for Personal Data Protection, Pplk. Sochora 27, 170 00 Prague 7, The Czech Republic</div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_mail.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By mail:</span> Office for Personal Data Protection, Pplk. Sochora 27, 170 00 Prague 7, The Czech Republic</div>
 </div>
 <br>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_phone.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div><span style="font-weight: bold">By phone:</span> +420 234 665 111</div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_phone.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By phone:</span> +420 234 665 111</div>
 </div><br>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.uoou.cz/en">http://www.uoou.cz/en</a></div><br>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.uoou.cz/en">http://www.uoou.cz/en</a></div><br>
 </details>
 <br>
 <details><summary style="font-size: 18px; font-weight: bold" id="tp_specific">SPECIFICS OF PARTICULAR DIGITAL PRODUCTS</summary>
