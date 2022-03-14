@@ -6,7 +6,7 @@
 <details><summary style="font-size: 18px; font-weight: bold">PRIVACY IN OUR DIGITAL PRODUCTS</summary>
 <p style="margin-left: 3vw"> We provide you with products and services in the digital environment. To make this Privacy Notice easier to understand, we will use the term “digital products” in this text for our following digital products and services: 
 <ul style="margin-left: 5vw"> 
-   <li>your digital ŠKODA ID account,   <a href=www.centrum.cz><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a> </li>
+   <li>your digital ŠKODA ID account,   <a href="www.centrum.cz"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a> </li>
    <li>ŠKODA Digital Connectivity Services,</li>
    <li>car configurator on ŠKODA AUTO website.</li>
 </ul>
