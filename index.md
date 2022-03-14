@@ -89,10 +89,10 @@
 <details><summary style="font-size: 18px; font-weight: bold">SHARING OF YOUR DATA</summary>
 <img src="https://github.com/jxofix/SA_temp/blob/main/sharing_with_whom.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />
 <p style="margin-left: 3vw; font-style:italic">Who do we share your data with?</p>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/consent.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" /><div style="font-weight: bold">With your consent</div>
+<p style="margin-left: 3vw; font-weight: bold">With your consent</p>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/consent.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" />
 <p style="margin-left: 3vw">We highly respect your personal data. Generally, we disclose your data when we have your consent.</p>
 </div>
-
 <p style="margin-left: 3vw">Without your consent, we disclose your data to third parties only if it is necessary for the following reasons:</p>
 <p style="margin-left: 3vw; font-weight: bold">Your use of a third-party service</p>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/third_party.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" />
