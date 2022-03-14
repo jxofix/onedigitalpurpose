@@ -207,7 +207,7 @@
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/contact_electronically.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">Online:</span> <a href="http://www.skoda-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></div>
 </div>
 <br>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/dpo_email.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By e-mail:</span> <a href="mailto:dpo@ŠKODA-auto.cz">dpo@ŠKODA-auto.cz</a></div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/dpo_email.jpg?raw=true" style="width: calc(25px + 1vw); float: left" /><div><span style="font-weight: bold">By e-mail:</span> <a href="mailto:dpo@skoda-auto.cz">dpo@ŠKODA-auto.cz</a></div>
 </div>
 <br>
 <p style="margin-left: 3vw; font-weight: bold">Lodging a complaint</p>
