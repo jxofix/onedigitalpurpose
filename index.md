@@ -100,7 +100,7 @@
 <div>If you use our digital products in connection with a third party's service (for example, log-in via Facebook, financial services, or electric chargers), we will disclose your data only if this is necessary for the use of the third party's service and the use of your data is therefore necessary to enable functionality of the digital products. Do you want to know more? <a href="#tp_know_more"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></div>
 </div>
 <br>
-<details> <summary style="margin-left:3vw; font-weight: bold" id="tp_know_more"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
+<details> <summary style="margin-left:3vw; font-weight: bold" id="tp_know_more"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Learn more:</summary>
 <p style="margin-left: 6vw">We may disclose your data to the relevant companies of the <span style="font-weight: bold">Volkswagen Group</span> which host some of the digital products. Furthermore, we may disclose your data to selected members of our <span style="font-weight: bold">distribution network</span> which is essential to enjoy full possibilities of our digital products, for example when you share with us who your preferred dealer is, or when it represents our legitimate interest. In addition, some of our digital products (or some of their functionalities) are provided to us by third parties, who we need to share the necessary set of personal data with. Otherwise, you would not be able to use such functionalities.</p>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">To comply with legal requirements</p>
@@ -226,7 +226,7 @@
 <p style="margin-left: 3vw">Our digital products include in particular:</p>
 <p style="margin-left: 3vw; font-weight: bold">ŠKODA Digital Connectivity Services</p>
 <p style="margin-left: 3vw">ŠKODA Digital Connectivity Services enable you to access a wide range of services or features, such as verification of the vehicle status, getting up-to-date information including current driving data, inclusive statistics (both in retrospect and in real time), journey logging, trip planning or assistance services.  <a href="#dcs"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="dcs"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
+<details> <summary style="margin-left:3vw; font-weight:bold" id="dcs"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Learn more:</summary>
 <p style="margin-left: 6vw; font-weight: bold">This digital product enables you to use the following functionalities:</p>
 <ul style="margin-left: 8vw">
    <li>to check the condition of your vehicle concerning mileage, fuel range and maintenance interval;</li>
@@ -251,12 +251,13 @@
    <li>to make your trip planning via Mobile Application easier as it allows you to search and display nearby points of interest</li>
 </ul>
 </details>
+<br>
 <p style="margin-left: 6vw; font-weight: bold">Sharing of your data</p>
 <p style="margin-left: 6vw">In order to provide you with digital product ŠKODA Digital Connectivity Services, we may disclose your data also to providers of ŠKODA Digital Connectivity Services (such as IT or delivery services providers).</p>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">Car configurator on ŠKODA AUTO website</p>
 <p style="margin-left: 3vw">Car configurator is a web-based platform for configuration of vehicles which enables you to build your own car in a few simple steps by selecting features of your perfect car.  <a href="#cc"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="cc"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
+<details> <summary style="margin-left:3vw; font-weight:bold" id="cc"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Learn more:</summary>
 <p style="margin-left: 6vw; font-weight: bold">Saving of your car configuration</p>
 <p style="margin-left: 6vw;">If you log in to your account, we will save your car configuration and send it to you via e-mail.</p>
 <p style="margin-left: 6vw; font-weight: bold">Sharing of your data</p>
@@ -264,7 +265,7 @@
 </details>
 <p style="margin-left: 3vw; font-weight: bold">ŠKODA ID Account</p>
 <p style="margin-left: 3vw">ŠKODA ID is your personal account in the digital world of ŠKODA AUTO which gives you a unified means to sign up to our digital products.  <a href="#skoda_id_account"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="skoda_id_account"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
+<details> <summary style="margin-left:3vw; font-weight:bold" id="skoda_id_account"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Learn more:</summary>
 <p style="margin-left: 6vw; font-weight: bold">Data used</p>
 <p style="margin-left: 6vw;">In order to provide you with full experience of your ŠKODA ID account which could give you an unified identity within the ŠKODA AUTO environment and ease your use of variety of our digital products, we may need to use also the following personal data:</p>
 <ul style="margin-left:8vw">
@@ -287,10 +288,10 @@
 </div>
 </div>
 <br><br>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="processing"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
+<details> <summary style="margin-left:3vw; font-weight:bold" id="processing"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> What is automated processing</summary>
 <p style="margin-left: 6vw">Decision-making based solely on automated processing happens when significant decisions about you are taken by technological means and without any human involvement. They can be taken even without profiling.</p>
 </details>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="profiling"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
+<details> <summary style="margin-left:3vw; font-weight:bold" id="profiling"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> What is profiling?</summary>
 <p style="margin-left: 6vw">Profiling means that your personal aspects are being evaluated in order to make predictions about you, even if no decision is taken. For example, if a company assesses your characteristics (such as your age, sex, height) or classifies you in a category, this means you are being profiled.</p>
 </details>
 </details>
