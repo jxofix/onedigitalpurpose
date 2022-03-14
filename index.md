@@ -288,7 +288,7 @@
 </div>
 </div>
 <br><br>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="processing"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> What is automated processing</summary>
+<details> <summary style="margin-left:3vw; font-weight:bold" id="processing"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> What is automated processing?</summary>
 <p style="margin-left: 6vw">Decision-making based solely on automated processing happens when significant decisions about you are taken by technological means and without any human involvement. They can be taken even without profiling.</p>
 </details>
 <details> <summary style="margin-left:3vw; font-weight:bold" id="profiling"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> What is profiling?</summary>
