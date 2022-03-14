@@ -114,7 +114,8 @@
 <br>
 <details><summary style="font-size: 18px; font-weight: bold">RETENTION DURATION</summary>
 <img src="https://github.com/jxofix/SA_temp/blob/main/retention_how_long.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/retention_exclamation.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" /><div style="font-style:italic">How long do we retain your data?</div>
+<div style="font-style:italic">How long do we retain your data?</div>
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/retention_exclamation.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" />
 <div>Generally, we will retain your data until the agreement on provision of digital products between us is terminated and for the subsequent necessary archiving period. In case of the improvement and enhancement of our digital products, we do not use your data for more than one month.</div>
 </div>
 <br>
@@ -125,7 +126,7 @@
 <br>
 <p style="margin-left: 3vw; font-weight: bold">Your choice of deletion</p>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/deletion.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" />
-<div>We will also delete your personal data gathered and used by your ŠKODA ID upon your request, i.e., if you delete your ŠKODA ID through the ŠKODA ID profile portal. </div>
+<div>We will also delete your personal data gathered and used by your ŠKODA ID upon your request, i.e., if you delete your ŠKODA ID through the ŠKODA ID profile portal. </div><br>
 <div>However, we will retain some data for longer period of time if it is necessary for our other legitimate legal or business purposes (such as for financial record-keeping or to finish open business transactions), until the relevant purpose will have been accomplished.</div>
 </div>
 </details>
