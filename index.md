@@ -27,7 +27,7 @@
    <li>Identification of your preferred dealer</li>
    <li>Technical information on the product (VIN number of your car and registration plate number).</li>
 </ul>
-<p style="margin-left: 3vw"> If you want to use a specific digital product, we may require additional personal data from you so that you could use that digital product to its full extent. If you want to know more about how we use your personal data in a specific digital product, you can learn more below in the section <a href=#tp_specific>SPECIFICS OF PARTICULAR DIGITAL PRODUCTS</a>.</p>
+<p style="margin-left: 3vw"> If you want to use a specific digital product, we may require additional personal data from you so that you could use that digital product to its full extent. If you want to know more about how we use your personal data in a specific digital product, you can learn more below in the section <a href="#tp_specific">SPECIFICS OF PARTICULAR DIGITAL PRODUCTS</a>.</p>
 
 <p style="margin-left: 3vw">As we care about your privacy, in some cases we may specifically ask for your permission to access some of your data if you want to use a particular functionality of a digital product.</p>
 
@@ -45,11 +45,11 @@
  
 <p style="margin-left: 3vw; font-weight: bold">Data collected from website browsing and use of applications </p>
  
-<p style="margin-left: 3vw">If you use some of the digital products, we may use cookie or similar technology to collect data about you via the browser. For more information about our cookie policy, you can visit <a href="https://www.skoda-auto.cz/sluzby/cookie-settings-en">Cookie Settings</a>.  <a href=#cookies><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
+<p style="margin-left: 3vw">If you use some of the digital products, we may use cookie or similar technology to collect data about you via the browser. For more information about our cookie policy, you can visit <a href="https://www.skoda-auto.cz/sluzby/cookie-settings-en">Cookie Settings</a>.  <a href="#cookies"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
 
 <p style="margin-left: 3vw">Similarly, if you use any digital products in form of a mobile app, we may need to use data which originated during your usage of the app, such as location or technical data.</p>
 
-<p style="margin-left: 3vw">If you want to know, what digital products use cookies, locations, please visit <a href=#tp_specific>SPECIFICS OF PARTICULAR DIGITAL PRODUCTS</a> .</p>
+<p style="margin-left: 3vw">If you want to know, what digital products use cookies, locations, please visit <a href="#tp_specific">SPECIFICS OF PARTICULAR DIGITAL PRODUCTS</a> .</p>
 
 <p style="margin-left: 3vw; font-weight: bold">Data inserted into applications </p>
  
@@ -96,7 +96,7 @@
 <p style="margin-left: 3vw">Without your consent, we disclose your data to third parties only if it is necessary for the following reasons:</p>
 <p style="margin-left: 3vw; font-weight: bold">Your use of a third-party service</p>
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/third_party.jpg?raw=true" style="width: calc(35px + 1.5vw); float: left" />
-<div>If you use our digital products in connection with a third party's service (for example, log-in via Facebook, financial services, or electric chargers), we will disclose your data only if this is necessary for the use of the third party's service and the use of your data is therefore necessary to enable functionality of the digital products. Do you want to know more? <a href=#tp_know_more><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></div>
+<div>If you use our digital products in connection with a third party's service (for example, log-in via Facebook, financial services, or electric chargers), we will disclose your data only if this is necessary for the use of the third party's service and the use of your data is therefore necessary to enable functionality of the digital products. Do you want to know more? <a href="#tp_know_more"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></div>
 </div>
 <br>
 <details> <summary style="margin-left:3vw; font-weight: bold" id="tp_know_more"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
@@ -133,7 +133,7 @@
 <img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_main.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />
 <p style="margin-left: 3vw; font-style:italic">What are your rights?</p>
 <p style="margin-left: 3vw">In connection with your personal data, you have the following rights:</p>
-<div style="margin-left: 3vw"><a href=#access><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_access.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href=#withdraw><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_withdraw.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href=#verify><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_verify.png?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href=#deleted><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_deleted.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href=#restrict><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_restrict.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href=#transfer><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_transfer.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href=#objection><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_objection.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a>
+<div style="margin-left: 3vw"><a href="#access"><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_access.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href="#withdraw"><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_withdraw.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href="#verify"><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_verify.png?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href="#deleted"><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_deleted.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href="#restrict"><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_restrict.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href="#transfer"><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_transfer.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a><a href="#objection"><img src="https://github.com/jxofix/SA_temp/blob/main/your_rights_objection.jpg?raw=true" style="width: calc(35px + 1.5vw);" /></a>
 </div>
 <p style="margin-left: 3vw">Upon your request, we will provide you with response within 30 days. In case of more demanding request, we are allowed to extend the period, but in any case, we will let you know.</p>
 <details> <summary style="margin-left:3vw; font-weight: bold" id="access">Access to your personal data</summary>
@@ -223,7 +223,7 @@
 <p style="margin-left: 3vw">Each of our digital products may need an additional set of your personal data to provide a full and quality experience. Also, some of our digital products may require sharing your data with a particular third-party provider of services. You can see all such differences below.</p>
 <p style="margin-left: 3vw">Our digital products include in particular:</p>
 <p style="margin-left: 3vw; font-weight: bold">ŠKODA Digital Connectivity Services</p>
-<p style="margin-left: 3vw">ŠKODA Digital Connectivity Services enable you to access a wide range of services or features, such as verification of the vehicle status, getting up-to-date information including current driving data, inclusive statistics (both in retrospect and in real time), journey logging, trip planning or assistance services.  <a href=#dcs><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
+<p style="margin-left: 3vw">ŠKODA Digital Connectivity Services enable you to access a wide range of services or features, such as verification of the vehicle status, getting up-to-date information including current driving data, inclusive statistics (both in retrospect and in real time), journey logging, trip planning or assistance services.  <a href="#dcs"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
 <details> <summary style="margin-left:3vw; font-weight:bold" id="dcs"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
 <p style="margin-left: 6vw; font-weight: bold">This digital product enables you to use the following functionalities:</p>
 <ul style="margin-left: 8vw">
@@ -240,7 +240,7 @@
    <li>Descriptive data: logbook of your travels</li>
    <li>Communication and interaction data: photos, videos</li>
    <li>Technical information on the product: Information on how the item is used (e.g. vehicles), technical description of the item (e.g. vehicle model and colour)</li>
-   <li>Localisation data: based on GPS or beacon technology  <a href=#gps><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></li>
+   <li>Localisation data: based on GPS or beacon technology  <a href="#gps"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></li>
 </ul>
 <p style="margin-left: 6vw; font-weight: bold">Sharing of your data</p>
 <p style="margin-left: 6vw">In order to provide you with digital product ŠKODA Digital Connectivity Services, we may disclose your data also to providers of ŠKODA Digital Connectivity Services (such as IT or delivery services providers).</p>
@@ -254,7 +254,7 @@
 </details>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">Car configurator on ŠKODA AUTO website</p>
-<p style="margin-left: 3vw">Car configurator is a web-based platform for configuration of vehicles which enables you to build your own car in a few simple steps by selecting features of your perfect car.  <a href=#cc><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
+<p style="margin-left: 3vw">Car configurator is a web-based platform for configuration of vehicles which enables you to build your own car in a few simple steps by selecting features of your perfect car.  <a href="#cc"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
 <details> <summary style="margin-left:3vw; font-weight:bold" id="cc"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
 <p style="margin-left: 6vw; font-weight: bold">Saving of your car configuration</p>
 <p style="margin-left: 6vw;">If you log in to your account, we will save your car configuration and send it to you via e-mail.</p>
@@ -262,7 +262,7 @@
 <p style="margin-left: 6vw;">In order to provide you with Car Configurator product, we may disclose your data also to a provider of financial services.</p>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">ŠKODA ID Account</p>
-<p style="margin-left: 3vw">ŠKODA ID is your personal account in the digital world of ŠKODA AUTO which gives you a unified means to sign up to our digital products.  <a href=#skoda_id_account><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
+<p style="margin-left: 3vw">ŠKODA ID is your personal account in the digital world of ŠKODA AUTO which gives you a unified means to sign up to our digital products.  <a href="#skoda_id_account"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a></p>
 <details> <summary style="margin-left:3vw; font-weight:bold" id="skoda_id_account"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> Know more:</summary>
 <p style="margin-left: 6vw; font-weight: bold">Data used</p>
 <p style="margin-left: 6vw;">In order to provide you with full experience of your ŠKODA ID account which could give you an unified identity within the ŠKODA AUTO environment and ease your use of variety of our digital products, we may need to use also the following personal data:</p>
@@ -282,7 +282,7 @@
 <div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/other_age.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div>You must be at least 16 old to be able to use our digital products. Only by determining the minimum age we may become assured that our digital products are only used by persons for whom they are intended. We also provide special protection of individuals under 16 by prohibiting general access to all connected services.</div>
 </div>
 <p style="margin-left: 3vw; font-weight: bold">No fully automated decision-making</p>
-<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/other_automated.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div>We do not make any decisions based solely on automated processing <a href=#processing><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a>, including profiling <a href=#profiling><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a>. On the contrary, we always involve human review when we make our decisions.
+<div style="margin-left: 3vw"><img src="https://github.com/jxofix/SA_temp/blob/main/other_automated.jpg?raw=true" style="width: calc(30px + 1vw); float: left" /><div>We do not make any decisions based solely on automated processing <a href="#processing"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a>, including profiling <a href="#profiling"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a>. On the contrary, we always involve human review when we make our decisions.
 </div>
 </div>
 <br><br>
