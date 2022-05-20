@@ -1,6 +1,4 @@
 # Privacy Notice 
-
-❔
 	
 <div><img src="https://github.com/jxofix/SA_temp/blob/main/privacy_notice_main.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />This Privacy Notice informs you how we use your personal data. Our goal is to help you understand what personal data we use, what we need your personal data for, what your rights are, and what we do to protect your privacy. To explain things as clearly as possible, we encourage you to carefully read the examples related to what you are interested in.</div>
 <br>
@@ -8,12 +6,12 @@
 <details><summary style="font-size: 18px; font-weight: bold">PRIVACY IN OUR DIGITAL PRODUCTS</summary>
 <p style="margin-left: 3vw"> We provide you with products and services in the digital environment. To make this Privacy Notice easier to understand, we will use the term “digital products” in this text for our following digital products and services: 
 <ul style="margin-left: 5vw"> 
-   <li>your digital ŠKODA ID account,   <a href="#skoda_id"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1em" /></a> </li>
+   <li>your digital ŠKODA ID account,   <a href="#skoda_id">❔</a> </li>
    <li>ŠKODA Digital Connectivity Services,</li>
    <li>car configurator on ŠKODA AUTO website.</li>
 </ul>
 </p>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="skoda_id"><img src="https://github.com/jxofix/SA_temp/blob/main/question-mark.png?raw=true" style="width:1.2em" /> What is ŠKODA ID?</summary>
+<details> <summary style="margin-left:3vw; font-weight:bold" id="skoda_id">❔ What is ŠKODA ID?</summary>
 <p style="margin-left:6vw">ŠKODA ID is your account profile which you set up to use our digital products. We store your personal data in ŠKODA ID and our digital products access them whenever they are necessary to ensure full functionality of the digital products.</p>
 </details>
 </details>
