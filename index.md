@@ -1,4 +1,6 @@
 # Privacy Notice 
+
+❔
 	
 <div><img src="https://github.com/jxofix/SA_temp/blob/main/privacy_notice_main.jpg?raw=true" style="width: calc(40px + 3vw); float: right" />This Privacy Notice informs you how we use your personal data. Our goal is to help you understand what personal data we use, what we need your personal data for, what your rights are, and what we do to protect your privacy. To explain things as clearly as possible, we encourage you to carefully read the examples related to what you are interested in.</div>
 <br>
