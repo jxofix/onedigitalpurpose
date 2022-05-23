@@ -56,7 +56,7 @@ details[open]>summary {
    <li>Identification of your preferred dealer</li>
    <li>Technical information on the product (VIN number of your car and registration plate number).</li>
 </ul>
-<p style="margin-left: 3vw"> If you want to use a specific digital product, we may require additional personal data from you so that you could use that digital product to its full extent. If you want to know more about how we use your personal data in a specific digital product, you can learn more below in the section <a href="#tp_specific"; style="color: DodgerBlue">Specifics of particular digital products</a>.</p>
+<p style="margin-left: 3vw"> If you want to use a specific digital product, we may require additional personal data from you so that you could use that digital product to its full extent. If you want to know more about how we use your personal data in a specific digital product, you can learn more below in the section <a href="#tp_specific" style="color: DodgerBlue">Specifics of particular digital products</a>.</p>
 
 <p style="margin-left: 3vw">As we care about your privacy, in some cases we may specifically ask for your permission to access some of your data if you want to use a particular functionality of a digital product.</p>
 
