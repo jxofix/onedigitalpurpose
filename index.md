@@ -29,7 +29,8 @@ details[open]>summary {
 
 </style>
 
-# Privacy Notice 
+<h1 style= "border-bottom: 1px solid rgb(0, 0, 0, 0.3)">Privacy Notice</h1>
+ 
 
 <div style="margin-left: 3vw">This Privacy Notice informs you how we use your personal data. Our goal is to help you understand what personal data we use, what we need your personal data for, what your rights are, and what we do to protect your privacy. To explain things as clearly as possible, we encourage you to carefully read the examples related to what you are interested in.</div>
 <br>
@@ -72,11 +73,11 @@ details[open]>summary {
  
 <p style="margin-left: 3vw; font-weight: bold">Data collected from website browsing and use of applications </p>
  
-<p style="margin-left: 5vw">If you use some of the digital products, we may use cookie or similar technology to collect data about you via the browser. For more information about our cookie policy, you can visit <a href="https://www.skoda-auto.cz/sluzby/cookie-settings-en"; style="color: DodgerBlue">Cookie Settings</a>. <a href="#cookies" style="text-decoration:none"> <span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a> </p>
+<p style="margin-left: 5vw">If you use some of the digital products, we may use cookie or similar technology to collect data about you via the browser. For more information about our cookie policy, you can visit <a href="https://www.skoda-auto.cz/sluzby/cookie-settings-en" style="color: DodgerBlue">Cookie Settings</a>. <a href="#cookies" style="text-decoration:none"> <span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a> </p>
 
 <p style="margin-left: 5vw">Similarly, if you use any digital products in form of a mobile app, we may need to use data which originated during your usage of the app, such as location or technical data.</p>
 
-<p style="margin-left: 5vw">If you want to know, what digital products use cookies, locations, please visit <a href="#tp_specific"; style="color: DodgerBlue">Specifics of particular digital products</a>.</p>
+<p style="margin-left: 5vw">If you want to know, what digital products use cookies, locations, please visit <a href="#tp_specific" style="color: DodgerBlue">Specifics of particular digital products</a>.</p>
 
 <p style="margin-left: 3vw; font-weight: bold">Data inserted into applications </p>
  
@@ -91,7 +92,7 @@ details[open]>summary {
 <p style="margin-left: 5vw">Personal data also originate when you drive your vehicle. For example, a functionality that creates a logbook of your travels may generate such data which originate when you drive Škoda car. We may also use such data which originated when you were driving your vehicle to provide you with such a digital product.</p>
 <details> <summary style="margin-left:3vw; font-weight: bold" id="cookies"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> What are cookies? </summary>
 
-<p style="margin-left: 5vw">Cookies are small blocks of data created by a web server (while you are browsing a website) and placed on your device, used to access a website (such as computer or smartphone). If you use any of the digital products by using a web browser, we may also use the data about you collected via the browser (cookies). The cookie technology helps us, in particular, to enable some functionalities of the website, better understand your behaviour, analyse the effectiveness of advertisements, combat fraud, or fulfil other important roles. For example, we may use cookies to make the content and ads you see more relevant to you. However, we will only use cookies if you give us the consent to use your cookies via the cookie consent tool on our websites. For more information about our cookie policy, you can visit <a href="https://www.skoda-auto.cz/sluzby/cookie-settings-en"; style="color: DodgerBlue">Cookie Settings</a>.</p>
+<p style="margin-left: 5vw">Cookies are small blocks of data created by a web server (while you are browsing a website) and placed on your device, used to access a website (such as computer or smartphone). If you use any of the digital products by using a web browser, we may also use the data about you collected via the browser (cookies). The cookie technology helps us, in particular, to enable some functionalities of the website, better understand your behaviour, analyse the effectiveness of advertisements, combat fraud, or fulfil other important roles. For example, we may use cookies to make the content and ads you see more relevant to you. However, we will only use cookies if you give us the consent to use your cookies via the cookie consent tool on our websites. For more information about our cookie policy, you can visit <a href="https://www.skoda-auto.cz/sluzby/cookie-settings-en" style="color: DodgerBlue">Cookie Settings</a>.</p>
 </details>
 </details>
 
@@ -125,7 +126,7 @@ details[open]>summary {
 
 <p style="margin-left: 3vw; font-weight: bold">Your use of a third-party service</p>
 
-<p style="margin-left: 5vw">If you use our digital products in connection with a third party's service (for example, log-in via Facebook, financial services, or electric chargers), we will disclose your data only if this is necessary for the use of the third party's service and the use of your data is therefore necessary to enable functionality of the digital products. Do you want to know more? <a href="#tp_know_more"; style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
+<p style="margin-left: 5vw">If you use our digital products in connection with a third party's service (for example, log-in via Facebook, financial services, or electric chargers), we will disclose your data only if this is necessary for the use of the third party's service and the use of your data is therefore necessary to enable functionality of the digital products. Do you want to know more? <a href="#tp_know_more" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
 
 
 <details> <summary style="margin-left:3vw; font-weight: bold" id="tp_know_more"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
@@ -214,7 +215,7 @@ details[open]>summary {
 
 <div style="margin-left:2vw; border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">By phone: </span>
-<ul style="margin-left: 2vw"> <li>800 600 000</li></ul></div>
+<ul style="margin-left: 2vw"> <li>+420 800 600 000</li></ul></div>
 <br><br><br><br><br><br><br>
 
 <div style="border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
@@ -231,7 +232,7 @@ details[open]>summary {
 
 <div style="margin-left: 3vw"> <div style="border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">Online: </span>
-<ul style="margin-left: 2vw"><li><a href="http://www.skoda-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></li>
+<ul style="margin-left: 2vw"><li><a href="http://www.skoda-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></li></ul>
 </div>
 
 <div style="margin-left:2vw; border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
@@ -283,7 +284,7 @@ details[open]>summary {
    <li>Descriptive data: logbook of your travels</li>
    <li>Communication and interaction data: photos, videos</li>
    <li>Technical information on the product: Information on how the item is used (e.g. vehicles), technical description of the item (e.g. vehicle model and colour)</li>
-   <li>Localisation data: based on GPS or beacon technology  <a href="#gps"style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></li>
+   <li>Localisation data: based on GPS or beacon technology  <a href="#gps" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></li>
 </ul>
 <details> <summary style="margin-left:5vw; font-weight:bold" id="gps"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Why do we need location data?</summary>
 
@@ -310,7 +311,7 @@ details[open]>summary {
 <p style="margin-left: 7vw;">In order to provide you with Car Configurator product, we may disclose your data also to a provider of financial services.</p>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">Škoda ID Account</p>
-<p style="margin-left: 5vw">Škoda ID is your personal account in the digital world of ŠKODA AUTO which gives you a unified means to sign up to our digital products.  <a href="#skoda_id_account"style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
+<p style="margin-left: 5vw">Škoda ID is your personal account in the digital world of ŠKODA AUTO which gives you a unified means to sign up to our digital products.  <a href="#skoda_id_account" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
 
 <details> <summary style="margin-left:3vw; font-weight:bold" id="skoda_id_account"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
 
