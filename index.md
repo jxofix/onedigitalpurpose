@@ -35,7 +35,7 @@ details[open]>summary {
 <div style="margin-left: 3vw">This Privacy Notice informs you how we use your personal data. Our goal is to help you understand what personal data we use, what we need your personal data for, what your rights are, and what we do to protect your privacy. To explain things as clearly as possible, we encourage you to carefully read the examples related to what you are interested in.</div>
 <br>
 
-<details><summary style="font-size: 18px; font-weight: bold">Privacy in our digital products</summary>
+<details><summary style="font-size: 18px;"><span style="font-weight:bold">Privacy in our digital products</span></summary>
 <p style="margin-left: 3vw"> We provide you with products and services in the digital environment. To make this Privacy Notice easier to understand, we will use the term “digital products” in this text for our following digital products and services: 
 <ul style="margin-left: 5vw"> 
    <li>your digital Škoda ID account,   <a href="#skoda_id" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></li>
@@ -129,8 +129,8 @@ details[open]>summary {
 <p style="margin-left: 5vw">If you use our digital products in connection with a third party's service (for example, log-in via Facebook, financial services, or electric chargers), we will disclose your data only if this is necessary for the use of the third party's service and the use of your data is therefore necessary to enable functionality of the digital products. Do you want to know more? <a href="#tp_know_more" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
 
 
-<details> <summary style="margin-left:3vw; font-weight: bold" id="tp_know_more"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
-<p style="margin-left: 5vw">We may disclose your data to the relevant companies of the <span style="font-weight: bold">Volkswagen Group</span> which host some of the digital products. Furthermore, we may disclose your data to selected members of our <span style="font-weight: bold">distribution network</span> which is essential to enjoy full possibilities of our digital products, for example when you share with us who your preferred dealer is, or when it represents our legitimate interest. In addition, some of our digital products (or some of their functionalities) are provided to us by third parties, who we need to share the necessary set of personal data with. Otherwise, you would not be able to use such functionalities.</p>
+<details> <summary style="margin-left:7vw; font-weight: bold" id="tp_know_more"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
+<p style="margin-left: 9vw">We may disclose your data to the relevant companies of the <span style="font-weight: bold">Volkswagen Group</span> which host some of the digital products. Furthermore, we may disclose your data to selected members of our <span style="font-weight: bold">distribution network</span> which is essential to enjoy full possibilities of our digital products, for example when you share with us who your preferred dealer is, or when it represents our legitimate interest. In addition, some of our digital products (or some of their functionalities) are provided to us by third parties, who we need to share the necessary set of personal data with. Otherwise, you would not be able to use such functionalities.</p>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">To comply with legal requirements</p>
 
@@ -208,58 +208,60 @@ details[open]>summary {
 
 <p style="margin-left: 3vw">If you have any questions about our use or protection of your data or if you want to exercise any of your rights, you can contact us:</p>
 
-<div style="margin-left: 3vw"> <div style="border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
+<div style="margin-left: 2.5%"> <div style="margin-top: 10px; margin-right:2.5%; border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; min-height: 150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">Electronically: </span>
 <ul style="margin-left: 2vw"><li><a href="http://www.skoda-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></li>
 <li>via Škoda ID Portal at <a href="https://skodaid.vwgroup.io">https://Škodaid.vwgroup.io</a></li></ul></div>
 
-<div style="margin-left:2vw; border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
+<div style="margin-top: 10px; border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; min-height: 150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">By phone: </span>
 <ul style="margin-left: 2vw"> <li>+420 800 600 000</li></ul></div>
-<br><br><br><br><br><br><br>
+<table style="width:100%"></table>
 
-<div style="border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
+<div style="margin-top: 10px; margin-right:52.5%; border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; height: min-150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">By mail: </span>
 <ul style="margin-left: 2vw"> <li>ŠKODA AUTO a.s., tř. Václava Klementa 869, Mladá Boleslav II, 293 01 Mladá Boleslav, Czech Republic</li></ul></div>
-<br><br><br><br><br><br><br> </div>
-
+ </div>
+<table style="width:100%"></table>
 <p style="margin-left: 3vw">We may charge a reasonable fee when your requests are apparently unfounded or excessive considering connected administrative costs.</p>
 
 <p style="margin-left: 3vw; font-weight: bold">Data Protection Officer</p>
 
 <p style="margin-left: 3vw">If you have a question about protection of your data, you can also directly contact our Data Protection Officer:
 </p>
-
-<div style="margin-left: 3vw"> <div style="border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
+<table style="width:100%"></table>
+<div style="margin-left: 2.5%"> <div style="margin-top: 10px; margin-right:2.5%; border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; min-height: 150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">Online: </span>
 <ul style="margin-left: 2vw"><li><a href="http://www.skoda-auto.com/data-privacy">http://www.ŠKODA-auto.com/data-privacy</a></li></ul>
 </div>
 
-<div style="margin-left:2vw; border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
+<div style="margin-top: 10px;  border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; min-height: 150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">By e-mail: </span>
 <ul style="margin-left: 2vw"> <li><a href="mailto:dpo@skoda-auto.cz">dpo@ŠKODA-auto.cz</a></li></ul></div></div>
-<br><br><br><br><br><br><br>
 
-<p style="margin-left: 3vw; font-weight: bold">Lodging a complaint</p>
+
+<table style="width:100%"></table>
+<p style=" margin-left: 3vw; font-weight: bold">Lodging a complaint</p>
+  	
 <p style="margin-left: 3vw">In case you disagree with our usage or protection of your data, you can lodge a complaint with the Data Protection Officer (DPO) of ŠKODA AUTO or a supervisory authority:</p>
 
-<div style="margin-left: 3vw"> <div style="border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 175px; border-radius: 2.5%; color: Black; float:left;">
+<div style="margin-left: 2.5%"> <div style="margin-top: 10px; margin-right:2.5%; border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; min-height: 175px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">By mail: </span>
-<ul style="margin-left: 2vw"><li>Office for Personal Data Protection, Pplk. Sochora 27, 170 00 Prague 7, The Czech Republic</li>
+<ul style="margin-left: 2vw"><li>Office for Personal Data Protection, Pplk. Sochora 27, 170 00<br> Prague 7, The Czech Republic</li>
 <li>via Škoda ID Portal at <a href="https://skodaid.vwgroup.io">https://Škodaid.vwgroup.io</a></li></ul></div>
 
-<div style="margin-left:2vw; border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 175px; border-radius: 2.5%; color: Black; float:left;">
+<div style="margin-top: 10px; border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; min-height: 175px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">By phone: </span>
 <ul style="margin-left: 2vw"> <li>+420 234 665 111</li></ul></div>
-<br><br><br><br><br><br><br>
+<table style="width:100%"></table>
 
-<div style="border:2px solid rgb(211, 211, 211, 0.3); width: 300px; height: 150px; border-radius: 2.5%; color: Black; float:left;">
+<div style="margin-top: 10px; margin-right:52.5%; border:2px solid rgb(211, 211, 211, 0.3); width: 47.5%; min-height: 150px; border-radius: 2.5%; color: Black; float:left;">
 <span style="font-weight: bold; margin-left: 2vw">Online: </span>
 <ul style="margin-left: 2vw"> <li><a href="http://www.uoou.cz/en">http://www.uoou.cz/en</a></li></ul></div>
-<br><br><br><br><br><br><br> </div>
+</div>
 </details>
 <br>
-
+<table style="width:100%"></table>
 <details><summary style="font-size: 18px; font-weight: bold" id="tp_specific">Specifics of particular digital products</summary>
 <p style="margin-left: 3vw">Each of our digital products may need an additional set of your personal data to provide a full and quality experience. Also, some of our digital products may require sharing your data with a particular third-party provider of services. You can see all such differences below.</p>
 <p style="margin-left: 3vw">Our digital products include in particular:</p>
@@ -267,10 +269,11 @@ details[open]>summary {
 <p style="margin-left: 3vw; font-weight: bold">Škoda Digital Connectivity Services</p>
 
 <p style="margin-left: 5vw">Škoda Digital Connectivity Services enable you to access a wide range of services or features, such as verification of the vehicle status, getting up-to-date information including current driving data, inclusive statistics (both in retrospect and in real time), journey logging, trip planning or assistance services.  <a href="#dcs" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
-<details> <summary style="margin-left:3vw; font-weight:bold" id="dcs"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
 
-<p style="margin-left: 5vw; font-weight: bold">This digital product enables you to use the following functionalities:</p>
-<ul style="margin-left: 7vw">
+<details> <summary style="margin-left:5vw; font-weight:bold" id="dcs"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
+
+<p style="margin-left: 7vw; font-weight: bold">This digital product enables you to use the following functionalities:</p>
+<ul style="margin-left: 9vw">
    <li>to check the condition of your vehicle concerning mileage, fuel range and maintenance interval;</li>
    <li>to visualise current vehicle alerts and/or any service needs and administer them;</li>
    <li>to track all your trips, with simple switching between business and private travel inclusive all available details and route information;</li>
@@ -286,10 +289,10 @@ details[open]>summary {
    <li>Technical information on the product: Information on how the item is used (e.g. vehicles), technical description of the item (e.g. vehicle model and colour)</li>
    <li>Localisation data: based on GPS or beacon technology  <a href="#gps" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></li>
 </ul>
-<details> <summary style="margin-left:5vw; font-weight:bold" id="gps"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Why do we need location data?</summary>
+<details> <summary style="margin-left:7vw; font-weight:bold" id="gps"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Why do we need location data?</summary>
 
-<p style="margin-left: 7vw">We need your <span style="font-weight: bold">location data</span> to ensure full functionality of the following Škoda Connectivity Services functionalities:</p>
-<ul style="margin-left: 9vw">
+<p style="margin-left: 9vw">We need your <span style="font-weight: bold">location data</span> to ensure full functionality of the following Škoda Connectivity Services functionalities:</p>
+<ul style="margin-left: 11vw">
    <li>to track all your trips, with simple switching between business and private travel inclusive all available details and route information;</li>
    <li>to make your trip planning via Mobile Application easier as it allows you to search and display nearby points of interest</li>
 </ul>
@@ -301,27 +304,27 @@ details[open]>summary {
 </details>
 
 <p style="margin-left: 3vw; font-weight: bold">Car configurator on ŠKODA AUTO website</p>
-<p style="margin-left: 5vw">Car configurator is a web-based platform for configuration of vehicles which enables you to build your own car in a few simple steps by selecting features of your perfect car.  <a href="#cc"style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
+<p style="margin-left: 5vw">Car configurator is a web-based platform for configuration of vehicles which enables you to build your own car in a few simple steps by selecting features of your perfect car.  <a href="#cc" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
 
-<details> <summary style="margin-left:3vw; font-weight:bold" id="cc"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
+<details> <summary style="margin-left:5vw; font-weight:bold" id="cc"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
 
-<p style="margin-left: 5vw; font-weight: bold">Saving of your car configuration</p>
-<p style="margin-left: 7vw;">If you log in to your account, we will save your car configuration and send it to you via e-mail.</p>
-<p style="margin-left: 5vw; font-weight: bold">Sharing of your data</p>
-<p style="margin-left: 7vw;">In order to provide you with Car Configurator product, we may disclose your data also to a provider of financial services.</p>
+<p style="margin-left: 7vw; font-weight: bold">Saving of your car configuration</p>
+<p style="margin-left: 9vw;">If you log in to your account, we will save your car configuration and send it to you via e-mail.</p>
+<p style="margin-left: 7vw; font-weight: bold">Sharing of your data</p>
+<p style="margin-left: 9vw;">In order to provide you with Car Configurator product, we may disclose your data also to a provider of financial services.</p>
 </details>
 <p style="margin-left: 3vw; font-weight: bold">Škoda ID Account</p>
 <p style="margin-left: 5vw">Škoda ID is your personal account in the digital world of ŠKODA AUTO which gives you a unified means to sign up to our digital products.  <a href="#skoda_id_account" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a></p>
 
-<details> <summary style="margin-left:3vw; font-weight:bold" id="skoda_id_account"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
+<details> <summary style="margin-left:5vw; font-weight:bold" id="skoda_id_account"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> Learn more:</summary>
 
-<p style="margin-left: 5vw; font-weight: bold">Data used</p>
-<p style="margin-left: 7vw;">In order to provide you with full experience of your Škoda ID account which could give you an unified identity within the ŠKODA AUTO environment and ease your use of variety of our digital products, we may need to use also the following personal data:</p>
-<ul style="margin-left:9vw">
+<p style="margin-left: 7vw; font-weight: bold">Data used</p>
+<p style="margin-left: 9vw;">In order to provide you with full experience of your Škoda ID account which could give you an unified identity within the ŠKODA AUTO environment and ease your use of variety of our digital products, we may need to use also the following personal data:</p>
+<ul style="margin-left:11vw">
    <li>Identification data: birth name, date and place of birth, country, person identifier (assigned by us). </li>
 </ul>
-<p style="margin-left: 5vw; font-weight: bold">Sharing of your data</p>
-<p style="margin-left: 7vw;">In order to provide you with digital product Škoda ID account, we may disclose your data also the company hosting the digital product: Amazon Web Services EMEA SARL, Business ID: 352 2789 0057, 38 Avenue John F. Kennedy, L-1855, Luxembourg and occasionally with companies helping us with IT processes.</p>
+<p style="margin-left: 7vw; font-weight: bold">Sharing of your data</p>
+<p style="margin-left: 9vw;">In order to provide you with digital product Škoda ID account, we may disclose your data also the company hosting the digital product: Amazon Web Services EMEA SARL, Business ID: 352 2789 0057, 38 Avenue John F. Kennedy, L-1855, Luxembourg and occasionally with companies helping us with IT processes.</p>
 </details>
 </details>
 <br>
@@ -332,10 +335,10 @@ details[open]>summary {
 <p style="margin-left: 5vw">We may archive your data in the public interest and use them for scientific, historical, or statistical research purposes. In well-founded cases, your data can also be used for the reason of legal matters resolution, including the performance of our obligations towards public administration bodies, and monitoring and ongoing evaluation of legal risks.</p>
 
 <p style="margin-left: 3vw; font-weight: bold">Age limit</p>
-<p style="margin-left: 5vw"">You must be at least 16 old to be able to use our digital products. Only by determining the minimum age we may become assured that our digital products are only used by persons for whom they are intended. We also provide special protection of individuals under 16 by prohibiting general access to all connected services.</p>
+<p style="margin-left: 5vw">You must be at least 16 old to be able to use our digital products. Only by determining the minimum age we may become assured that our digital products are only used by persons for whom they are intended. We also provide special protection of individuals under 16 by prohibiting general access to all connected services.</p>
 
 <p style="margin-left: 3vw; font-weight: bold">No fully automated decision-making</p>
-<p style="margin-left: 5vw">We do not make any decisions based solely on automated processing <a href="#processing"style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a>, including profiling <a href="#profiling"style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a>. On the contrary, we always involve human review when we make our decisions.
+<p style="margin-left: 5vw">We do not make any decisions based solely on automated processing <a href="#processing" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a>, including profiling <a href="#profiling" style="text-decoration:none"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span></a>. On the contrary, we always involve human review when we make our decisions.
 </p>
 <br>
 <details> <summary style="margin-left:3vw; font-weight:bold" id="processing"><span style="border:2px solid Tomato; border-radius: 50%; background: White; color: Tomato; font-weight: bold"> &nbsp;&nbsp;?&nbsp;&nbsp;</span> What is automated processing?</summary>
